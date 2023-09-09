@@ -1,4 +1,4 @@
-(https://app.circleci.com/pipelines/github/linhcnse130515/DevOps-Project-4)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/linhcnse130515/DevOps-Project-4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/linhcnse130515/DevOps-Project-4/tree/main)
 
 ## Project Overview
 
