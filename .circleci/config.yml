@@ -37,5 +37,4 @@ jobs:
           command: |
             cd project-ml-kubernetes
             source ~/.devops/bin/activate
-            make install
             make lint
